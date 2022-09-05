@@ -76,6 +76,6 @@ Combine both options, like adding the `wss/*` to the image and use mounting for 
  
 
 ## Tips 
-It's possible to use the [Whitesource Unified-Agent configuration](https://whitesource.atlassian.net/wiki/spaces/WD/pages/804814917/Unified+Agent+Configuration+File+and+Parameters)
+It's possible to use the [Mend Unified-Agent configuration](https://docs.mend.io/bundle/unified_agent/page/overview_of_the_unified_agent.html)
 properties: `whiteSourceFolderPath` and `log.files.path` 
 To save scan results and logs outside of the running container with combination of docker volume mounts.
