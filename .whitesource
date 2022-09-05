@@ -1,8 +1,0 @@
-##########################################################
-####    Mend Integration configuration file    ####
-##########################################################
-
-# Configuration #
-#---------------#
-ws.repo.scan=true
-vulnerable.check.run.conclusion.level=failure
